@@ -1,0 +1,13 @@
+ion-toolbar {
+    --background: var(--ion-color-primary);
+    --color: var(--ion-color-primary-contrast);
+}
+
+
+ion-card-title {
+    --color: var(--ion-color-step-300);
+}
+
+p {
+    --color: var(--ion-color-step-300);
+}
